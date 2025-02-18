@@ -4,7 +4,7 @@
   "description": "Shahi Token is a Solana-based digital asset.",
   "image": "https://files.lighthouse.storage/viewFile/bafkreifncnaa5wjefh6rnvkgexqfmzqzmo6m72vgymbpopydovyl6vxqqy",
   "seller_fee_basis_points": 500,
-  "external_url": "https://your-website.com",
+  "external_url": "https://www.shahbit.xyz",
   "attributes": [
     { "trait_type": "Blockchain", "value": "Solana" }
   ],
